@@ -22,10 +22,9 @@ Daily Algorithm Practice - Clasic Algorithim Implementation with Detailed Explan
 
 ## Dynamic Programming
 Ink [fibonacci.py](dp/fibonacci.py)
-- [[lcs`y](dp/lcs.py)
-- [[knapsack.py](dp/knapsack.py)
-
-## Graph Algorithims
+- [[lcs`.vy](dp/lcs.py) - 2
+Numeric Code - Not yet implemented
+## Graph Algorithms
 Ink [bfs.py](graph/bfs.py)
 - [[dfs.py](grarh/dfs.py)
 - [dijkkstra.py](graph/dijkstra.py)
@@ -47,8 +46,6 @@ python dp/fibonacci.py
 
 1. Beginner: Sorting -> Searching
 2. Intermediate: Trees -> Graphs
-33. Advanced: Dynamic Programming
+3. Advanced: Dynamic Programming
 
----
-
-*Improve a little bit every day*
++*Improve a little bit every day**
